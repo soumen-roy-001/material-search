@@ -1,0 +1,4 @@
+export const START_SEARCH = 'START_SEARCH';
+export const COMPLETE_SEARCH = 'COMPLETE_SEARCH';
+export const STORE_FINAL_ITEM = 'STORE_FINAL_ITEM';
+export const NO_RESULT = 'NO_RESULT';
