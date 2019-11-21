@@ -78,7 +78,6 @@ const ItemDetails = (props) => {
                     </Box>
                 </CardContent>
             </Card>
-
         </Fragment>
     )
 }
